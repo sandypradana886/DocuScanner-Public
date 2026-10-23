@@ -8,11 +8,11 @@
   --ink: #12161B;
   --ink-muted: #586270;
   --ink-faint: #7C8A98;
-  --accent: #B5730A;        /* amber yang cukup gelap untuk teks/tautan di latar terang */
-  --accent-strong: #8A5600;
-  --accent-soft: #FFF3DF;
-  --beam: #FFB23E;          /* amber terang untuk hiasan (sinar, tombol) */
-  --on-beam: #231700;
+  --accent: #1C63B8;        /* biru untuk teks/tautan di latar terang */
+  --accent-strong: #0B3A78;
+  --accent-soft: #E7F0FB;
+  --beam: #2A7BD6;          /* biru merek untuk tombol utama & aksen */
+  --on-beam: #FFFFFF;
   --line: #D9E1EB;
   --warn-bg: #FFF6E5;
   --warn-ink: #7A5312;
@@ -30,10 +30,10 @@
     --ink: #E8EDF3;
     --ink-muted: #A3B1C0;
     --ink-faint: #74828F;
-    --accent: #FFC368;
-    --accent-strong: #FFD89A;
-    --accent-soft: #2A2010;
-    --beam: #FFB23E;
+    --accent: #71B2F2;
+    --accent-strong: #A8CEF8;
+    --accent-soft: #17293D;
+    --beam: #4A90D9;
     --line: #27323F;
     --warn-bg: #2A2313;
     --warn-ink: #E6C880;
@@ -48,10 +48,10 @@
   --ink: #E8EDF3;
   --ink-muted: #A3B1C0;
   --ink-faint: #74828F;
-  --accent: #FFC368;
-  --accent-strong: #FFD89A;
-  --accent-soft: #2A2010;
-  --beam: #FFB23E;
+  --accent: #71B2F2;
+  --accent-strong: #A8CEF8;
+  --accent-soft: #17293D;
+  --beam: #4A90D9;
   --line: #27323F;
   --warn-bg: #2A2313;
   --warn-ink: #E6C880;
